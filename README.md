@@ -1,2 +1,2 @@
-# Data-Analysis-and-Feasibility-Study
-Hospital Management System using Python and Data Science
+# Diwali Sales Analysis 
+Diwali Sales Analysis using Python Data Science
